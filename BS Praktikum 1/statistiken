@@ -1,0 +1,113 @@
+FuncRec
+
+Rahmengröße m Schritte Benuzter CPU time System CPU Time
+24000 Bytes
+
+1000
+3347 us
+0 us
+48000 Bytes
+
+2000
+3678 us
+0 us
+72000 Bytes
+
+3000
+3848 us
+0 us
+96000 Bytes
+
+4000
+4111 us
+0 us
+120000 Bytes
+
+5000
+4272 us
+0 us
+144000 Bytes
+
+6000
+4578 us
+0 us
+168000 Bytes
+
+7000
+4735 us
+0 us
+192000 Bytes
+
+8000
+4943 us
+0 us
+216000 Bytes
+
+9000
+5100 us
+0 us
+240000 Bytes
+
+10000
+5240 us
+0 us
+
+
+FuncMem
+
+n Schritte Benutzer CPU time System CPU Time Insgesamt verwendeter Speicher
+1000
+5909 us
+0 us
+33072 bytes
+
+2000
+5928 us
+0 us
+33072 bytes
+
+3000
+5944 us
+0 us
+33072 bytes
+
+4000
+5956 us
+0 us
+33072 bytes
+
+5000
+5971 us
+0 us
+33072 bytes
+
+6000
+5988 us
+0 us
+33072 bytes
+
+7000
+6004 us
+0 us
+33072 bytes
+
+8000
+6013 us
+0 us
+33072 bytes
+
+9000
+6028 us
+0 us
+33072 bytes
+
+10000
+6040 us
+0 us
+33072 bytes
+
+ 
+Statistiken :
+Maximal verwendeter Speicher : 33072 KB
+Maximale Stack-Größe Limit : 8192 KB
+Maximale Srack-Größe Hard Limit: 18014398509481983 KB
